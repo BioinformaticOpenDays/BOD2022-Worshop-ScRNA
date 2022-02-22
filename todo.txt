@@ -1,0 +1,4 @@
+Criar ambiente conda, com dependências (Diogo)
+Criar apresentação teórica (Ana)
+Passos da pipeline powerpoint (Mónica)
+Jupyter Preprocessar o PBMC3k (Análise)
