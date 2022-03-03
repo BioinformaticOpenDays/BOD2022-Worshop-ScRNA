@@ -15,9 +15,7 @@ K participants
 ## Curriculum
 
 - Data Intake and Read Mapping
-  - zUMI
   - Cell Ranger Danger
-  - kallisto busttools
 - Preprocessing Read Counts
   - Quality Control
     - Count depth
@@ -47,8 +45,9 @@ K participants
 
 ## What to do before you join us
 
-```
+```bash
 
-conda install .....
+conda env create diodupmia/bodxi_scrna_workshop
+source activate bodxi_scrna_workshop
 
 ```
