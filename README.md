@@ -51,3 +51,12 @@ conda env create diodupmia/bodxi_scrna_workshop
 source activate bodxi_scrna_workshop
 
 ```
+
+```bash
+conda env create -f bodxi_scrna_workshop.yml
+source activate bodxi_scrna_workshop
+```
+
+### Link for env
+
+https://anaconda.org/diodupima/bodxi_scrna_workshop
