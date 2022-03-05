@@ -1,0 +1,17 @@
+name: pbmc_scrna
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - scvi-tools
+  - ca-certificates
+  - certifi
+  - openssl
+  - leidenalg
+  - harmonypy
+  - umap-learn
+  - python-annoy
+  - scrublet=0.2.3
+  - anaconda-client
+  - louvain
+prefix: /home/dm/miniconda3/envs/pbmc_scrna
