@@ -31,17 +31,16 @@ K participants
 - Analysing Read Counts
   - Visualization and Dimensionality Reduction
   - Clustering
-    - Louvain Comunity
-    - inter group
-    - inter sample
+    - Leiden Comunity
+    - Inter group
+    - Inter sample
   - Trajectory Inferance
-    - RNA Velocity ## Nature Capa
+    - DPT pseudeotime
   - Marker Genes
-    - dot plot
-
-- Other Analysis
-  - Curiosidades
-  - Viral-Predictor ???
+    - Dot Plot
+    - Inter group
+    - Inter sample
+    
 
 ## What to do before you join us
 
